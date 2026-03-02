@@ -1,0 +1,46 @@
+1.
+You are given an array of book objects. 
+Each book has a title, author and status property.
+The status can be true(read) or false(unread).
+
+const books = [
+  { title: "Atomic Habits", author: "Author 1", status: true },
+  { title: "Healing Tree", author: "Author 2", status: false },
+  { title: "Book C", author: "Author 3", status: true },
+  { title: "Book D", author: "Author 4", status: false }
+];
+
+Write a JavaScript function that 
+returns the number of books that have been read.
+
+
+2.
+
+You are given an array of book objects. 
+Each book has a title and a price.
+
+const books = [
+  { title: "Atomic habits", price: 30 },
+  { title: "rols royce", price: 60 },
+  { title: "Book C", price: 80 },
+  { title: "Book D", price: 45 }
+];
+
+
+Write a JavaScript function that calculates and 
+returns the total price of all books whose price is greater than 50.
+
+
+3.
+function calcTotal(...nums) {
+    // add the numbers present in nums
+    let sum = 0;
+    for(let num of nums) {
+        sum += num
+    }
+    return sum;
+}
+calcTotal(1,2,3,4);
+
+
+
