@@ -29,5 +29,12 @@ fetch(url1)
 .catch((err) => console.log(err)
 )
 
+// 010100101001001001001010010100100100101001001001010001 time : 
+//  -> PBJECT
+// streaming : 1GB
+// 20GB
+// .JSON() -> CHUNKS -> JSON STRING -> JSON.PARSE() -> OBJ
+// STREAM : 500MB
+
 
 

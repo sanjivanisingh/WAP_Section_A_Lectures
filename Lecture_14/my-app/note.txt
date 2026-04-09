@@ -1,0 +1,27 @@
+<div>
+    <header>
+      <h1>logo</h1>
+      <div>
+        <ul>
+          <li>Home</li>
+          <li>About us</li>
+          <li>Contact</li>
+          <li>Login</li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section>
+        <h2>Website heading</h2>
+      </section>
+      <section>
+        <p>Online shopping</p>
+      </section>
+    </main>
+    <footer>
+      <p>policy</p>
+      <p>terms & conditions</p>
+      <p>contact Info</p>
+      <p>social links</p>
+    </footer>
+  </div>

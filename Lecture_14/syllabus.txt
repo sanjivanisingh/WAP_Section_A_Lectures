@@ -1,0 +1,7 @@
+Promises
+Fetch
+( .then, .catch, async, await)
+JSX 
+Styling
+npm
+es6 modules
